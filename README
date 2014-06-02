@@ -1,0 +1,14 @@
+Fill out this README with your group names and information on how to run
+your code (and anything else you think is important to the TAs). Example:
+
+--------------------------------------------------------------------------------
+
+veni - Veni Johanna
+gpai - Gina Pai
+tsakhuja - Timothy Sakhuja
+
+Run the code by first extracting the features using extract_feat.sh, then
+bash train.sh and bash predict.sh.
+
+The code inside classifier/libsvm-small is copied from openEAR (http://sourceforge.net/projects/openart/).
+grid.py and easy.py is copied from LibSVM (http://www.csie.ntu.edu.tw/~cjlin/libsvm/).
